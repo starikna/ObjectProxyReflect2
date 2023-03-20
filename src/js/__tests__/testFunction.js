@@ -31,6 +31,12 @@ const character = {
             icon: "http://...",
             id: 8,
             name: "Двойной выстрел"
+        },
+        {
+          description: "Описание недоступно",
+          icon: 'http://...',
+          id: 9,
+          name: 'Нокаутирующий удар'          
         }
     ];
 
